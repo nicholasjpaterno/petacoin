@@ -2,5 +2,3 @@
 
 real peta?
 asd
-
-no and then?
